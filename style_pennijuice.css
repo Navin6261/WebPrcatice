@@ -1,0 +1,30 @@
+.navigation_bar{
+    background-color: aquamarine;
+    margin: 0%;
+    padding: 2%;
+
+}
+.image_part ul li{
+    list-style: none;
+    float: left;
+    text-align: center;
+    margin-left: 215px;
+    margin-bottom: 20%;
+}
+.left_part ul li{
+    list-style: none;
+}
+.image_juice{
+    margin-bottom: 3%;
+}
+h6, h5{
+    font-weight: 700;
+}
+.left_part{
+    padding: 0%;
+    margin-right: 250px;
+}
+.juice_image{
+    width: 100%;
+
+}

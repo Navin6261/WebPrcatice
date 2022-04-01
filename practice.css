@@ -1,0 +1,21 @@
+
+.top_edge,.navbar_class{
+  background-color: #97c5cc;
+}
+.top_edge_inside{
+  padding: 2% ;
+}
+.card{
+  padding: 2%;
+  margin: 20px;
+}
+.shoes_images_top{
+  padding-top: 20px;
+  background-image: linear-gradient(180deg, red, green);
+}
+.shoes_images{
+  width: 100%;
+}
+.blazers_images{
+width: 50%;
+}
